@@ -86,7 +86,7 @@ define("shared/components/cluster-driver/driver-oke/component", ["exports", "sha
   }, "VM.GPU3.4", 'VM.GPU3.8');
 
   var imageMap = {
-        'Oracle-Linux-7.7': 'Oracle-Linux-7.7',
+        'Oracle Linux 7.7': 'Oracle Linux 7.7',
     'Oracle-Linux-7.6': 'Oracle-Linux-7.6',
     'Oracle-Linux-7.5': 'Oracle-Linux-7.5',
     'Oracle-Linux-7.4': 'Oracle-Linux-7.4'
