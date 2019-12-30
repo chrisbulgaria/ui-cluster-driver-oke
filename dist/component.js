@@ -65,7 +65,7 @@ define("shared/components/cluster-driver/driver-oke/component", ["exports", "sha
     'VM.Standard1.8': 'VM.Standard1.8',
     'VM.Standard1.16': 'VM.Standard1.16',
     'VM.Standard2.1': 'VM.Standard2.1',
-    'VM.StandardE2.1': 'VM.StandardE2.1',
+    'VM.Standard.E2.1': 'VM.Standard.E2.1',
     'VM.Standard2.2': 'VM.Standard2.2',
     'VM.Standard2.4': 'VM.Standard2.4',
     'VM.Standard2.8': 'VM.Standard2.8',
