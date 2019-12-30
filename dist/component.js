@@ -105,7 +105,7 @@ define("shared/components/cluster-driver/driver-oke/component", ["exports", "sha
             'label': 'Region'
           },
           'tenancyOCID': {
-            'label': 'Tenancy OCID',
+            'label': 'Tenancy test OCID',
             'placeholder': 'The OCID of the tenancy in which to create resources',
             'required': 'Tenancy OCID is required'
           },
